@@ -1,0 +1,98 @@
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\bin\Debug\GelecekNot.exe.config
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\bin\Debug\GelecekNot.exe
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\bin\Debug\GelecekNot.pdb
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\obj\Debug\GelecekNot.Properties.Resources.resources
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\obj\Debug\GelecekNot.exe
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\obj\Debug\GelecekNot.pdb
+C:\Users\Monster\Desktop\Öğrenci Kayıt Sistemi\Kütüphane Kayıt\GelecekNot\GelecekNot\obj\Debug\GelecekNot.Form1.resources
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\GelecekNot.exe.config
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\GelecekNot.exe
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\GelecekNot.pdb
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.Properties.Resources.resources
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.exe
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.pdb
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.TimedMessage.resources
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\Google.Protobuf.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\MySql.Data.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Buffers.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Memory.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\ZstdSharp.dll
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\Google.Protobuf.pdb
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\Google.Protobuf.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\MySql.Data.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Buffers.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Memory.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.Up2Date
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.LoginForm.resources
+C:\Users\Monster\Desktop\Visual Studio\GelecekNot\GelecekNot\obj\Debug\GelecekNot.ListForm.resources
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\GelecekNot.exe.config
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\GelecekNot.exe
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\GelecekNot.pdb
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\Google.Protobuf.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\MySql.Data.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Buffers.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Memory.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\ZstdSharp.dll
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\Google.Protobuf.pdb
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\Google.Protobuf.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\MySql.Data.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Buffers.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Memory.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.LoginForm.resources
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.TimedMessage.resources
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.ListForm.resources
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.Properties.Resources.resources
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.csproj.Up2Date
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.exe
+C:\Users\Monster\Desktop\Okul\Ödevler\GelecekNot\GelecekNot\obj\Debug\GelecekNot.pdb
